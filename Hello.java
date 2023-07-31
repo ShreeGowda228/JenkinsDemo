@@ -2,6 +2,6 @@ class A
 {
         public static void main(String args[])
         {
-		System.out.print("Learn Java with");
+		System.out.print("Learn Java with shree");
 	}
 }
